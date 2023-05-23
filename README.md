@@ -40,8 +40,9 @@ I'm a web developer with a passion for creating immersive user experiences and 5
 
 ### Socials
 
-<p align="left"> <a href="https://www.codepen.io/naveen1995113" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
- <a href="https://codesandbox.io/u/naveen1995113" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a>
+<p align="left">
+  <a href="https://codesandbox.io/u/naveen1995113" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a>
+ <a href="https://www.codepen.io/naveen1995113" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
  <a href="https://www.dev.to/naveen1995113" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> 
  <a href="https://www.github.com/naveen1995113" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
  <a href="https://www.linkedin.com/in/naveen-kumar-chintakindi-53154311a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
