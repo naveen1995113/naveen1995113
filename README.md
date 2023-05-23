@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Naveen Kumar
 ==============================================================================================================================
 
-Front-End Developer
+Web Developer
 -------------------
 
 I'm a web developer with a passion for creating immersive user experiences and 5+ years of experience in software and web development, programming, and designing for various projects.
